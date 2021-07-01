@@ -170,9 +170,9 @@ header {
     margin-left: 3%;
   }
 
-  .images {
+/*   .images {
     justify-content: initial;
-  }
+  } */
 
   .image1, .image2, .image3, .image4 {
     width: 180px;
