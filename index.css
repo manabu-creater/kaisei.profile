@@ -175,8 +175,8 @@ header {
   }
 
   .image1, .image2, .image3, .image4 {
-    width: 170px;
-    height: 100px;
+    width: 200px;
+    height: 150px;
     flex-wrap: wrap;
     margin: 5px;
   }
