@@ -155,13 +155,7 @@ header {
   }
 
   header {
-    height: 25px;
-    
-  }
-
-  .images {
-    display: flex;
-   
+    height: 25px; 
   }
 
   .main {
