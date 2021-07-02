@@ -77,24 +77,6 @@ header {
   justify-content: center; */
 }
 
-.contents {
-  text-align: center;
-}
-
-.contents p {
-  white-space: nowrap;
-  /* text-align: left; */
-  font-size: 200%;
-  display: inline-block;
-}
-
-.contents h4, .contents h3 {
-  font-size: 200%;
-  margin-top: 5%;
-  /* text-align: left; */
-  margin-bottom: 3%;
-}
-
 .title2 {
   height: 60px;
   margin-top: 10%;
@@ -140,13 +122,16 @@ header {
   font-size: 150%;
   white-space: nowrap;
   text-align: left;
-  margin-right: 5%;
-  /* margin: 0 auto; */
-  /* display: inline-block; */
+}
+
+.profile1 p {
+  width: 165px;
+  margin-right: initial;
 }
 
 .profile2 p {
   display: inline-block;
+  margin-right: 5%;
 }
 
 @media screen and (max-width: 599px) {
