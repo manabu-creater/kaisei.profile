@@ -65,8 +65,8 @@ header {
 }
 
 .background {
-  display: flex;
-  width: 650px;
+/*   display: flex;
+  width: 650px; */
   margin: 10% auto 3% auto; 
 }
 
@@ -160,9 +160,13 @@ header {
     left: 30%;
     font-size: 200%;
   }
+  
+  .top-wrapper {
+    width: 100%;
+  }
 
   .background {
-    width: 100%;
+    width: 90%;
     margin: initial;
     margin-top: 5%;
     margin-left: 10%;
