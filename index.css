@@ -65,8 +65,8 @@ header {
 }
 
 .background {
-/*   display: flex;
-  width: 650px; */
+  display: flex;
+/*   width: 650px; */
   margin: 10% auto 3% auto; 
 }
 
