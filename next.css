@@ -90,37 +90,26 @@ header {
     height: 30px;
   }
   
-  .aims {
+/*   .aims {
     width: 580px;
-  }
+  } */
 
   .aim p {
-    font-size: 60%;
+    font-size: 90%;
   }
   
-  .last {
+/*   .last {
     width: 550px;
     margin: 0 auto;
-  }
+  } */
 
   .last h1 {
     font-size: 120%;
   }
 
   .last p {
-    font-size: 60%;
+    font-size: 90%;
   }
 
-  .photos {
-    width: 580px;
-    /* margin: 0 auto; */
-    text-align: center;
-  }
-
-  .photo {
-    width: 225px;
-    height: 170px;
-    margin: 10px 10px;
-  }
 
 }
