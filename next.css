@@ -87,10 +87,7 @@ header {
 /* レスポンシブ携帯 */
 @media screen and (max-width: 599px) {
   header {
-    display: flex;
-    width: 599px;
-    height: 40px;
-    background-color: #003366;
+    height: 30px;
   }
   
   .aims {
@@ -98,9 +95,7 @@ header {
   }
 
   .aim p {
-    /* white-space: nowrap; */
     font-size: 60%;
-    /* display: inline-block; */
   }
   
   .last {
