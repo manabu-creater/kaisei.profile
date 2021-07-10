@@ -110,6 +110,18 @@ header {
   .last p {
     font-size: 80%;
   }
+　
+  .photos {
+    width: 580px;
+    /* margin: 0 auto; */
+    text-align: center;
+  }
 
+  .photo {
+    width: 225px;
+    height: 170px;
+    margin: 10px 10px;
+  }
+  
 
 }
