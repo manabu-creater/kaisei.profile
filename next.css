@@ -89,19 +89,10 @@ header {
   header {
     height: 30px;
   }
-  
-/*   .aims {
-    width: 580px;
-  } */
 
   .aim p {
     font-size: 90%;
   }
-  
-/*   .last {
-    width: 550px;
-    margin: 0 auto;
-  } */
 
   .last h1 {
     font-size: 120%;
@@ -112,8 +103,6 @@ header {
   }
 　
   .photos {
-    width: 580px;
-    /* margin: 0 auto; */
     text-align: center;
   }
 
