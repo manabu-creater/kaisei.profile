@@ -177,8 +177,9 @@ header {
   }
 
   .prof1 {
-    width: 120px;
-    height: 180px;
+    margin-top: 2%;
+    width: 150px;
+    height: 200px;
   }
 
   .title1, .title2 {
